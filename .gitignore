@@ -1,0 +1,24 @@
+# Large data & checkpoints
+checkpoints/
+data/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+
+# Secrets
+.env
+
+# Pyre / IDE / OS
+.pyre_configuration
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
